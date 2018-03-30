@@ -1,0 +1,24 @@
+{
+  "name": "mtg-graphql",
+  "version": "0.0.0",
+  "description": "GraphQL server for Magic: the Gathering database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/april418/mtg-graphql.git"
+  },
+  "author": "april418",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/april418/mtg-graphql/issues"
+  },
+  "homepage": "https://github.com/april418/mtg-graphql#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2"
+  }
+}
